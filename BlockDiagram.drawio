@@ -1,9 +1,54 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:132.0) Gecko/20100101 Firefox/132.0 Trailer/92.3.3128.24" version="24.8.6">
   <diagram name="Page-1" id="eNKYXawTohwNN5u736MI">
-    <mxGraphModel>
+    <mxGraphModel dx="1050" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="hG5gvxEIr6bZEF1lN0vt-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="hG5gvxEIr6bZEF1lN0vt-1" target="hG5gvxEIr6bZEF1lN0vt-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hG5gvxEIr6bZEF1lN0vt-1" value="User" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hG5gvxEIr6bZEF1lN0vt-2" value="Web&lt;br&gt;Browser" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hG5gvxEIr6bZEF1lN0vt-3" value="Server" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="185" width="200" height="165" as="geometry" />
+        </mxCell>
+        <mxCell id="hG5gvxEIr6bZEF1lN0vt-4" value="Authentication&lt;br&gt;Module" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="290" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hG5gvxEIr6bZEF1lN0vt-5" value="Inventory&lt;br&gt;Management&lt;br&gt;Module" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="290" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hG5gvxEIr6bZEF1lN0vt-6" value="Database&lt;br&gt;Server" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="430" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="hG5gvxEIr6bZEF1lN0vt-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="hG5gvxEIr6bZEF1lN0vt-2" target="hG5gvxEIr6bZEF1lN0vt-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="320" as="sourcePoint" />
+            <mxPoint x="450" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hG5gvxEIr6bZEF1lN0vt-12" value="User&lt;br&gt;Table" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="430" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hG5gvxEIr6bZEF1lN0vt-14" value="Computer&lt;br&gt;Inventory&lt;br&gt;&lt;div&gt;Table&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="430" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hG5gvxEIr6bZEF1lN0vt-15" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="hG5gvxEIr6bZEF1lN0vt-4" target="hG5gvxEIr6bZEF1lN0vt-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="420" as="sourcePoint" />
+            <mxPoint x="450" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hG5gvxEIr6bZEF1lN0vt-16" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="hG5gvxEIr6bZEF1lN0vt-5" target="hG5gvxEIr6bZEF1lN0vt-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="420" as="sourcePoint" />
+            <mxPoint x="450" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
