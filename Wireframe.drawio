@@ -1,9 +1,75 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:132.0) Gecko/20100101 Firefox/132.0 Trailer/92.3.3128.24" version="24.8.6">
   <diagram name="Page-1" id="tdPUEndovJOskfWqeUkB">
-    <mxGraphModel>
+    <mxGraphModel dx="1050" dy="604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="_Gdx0q3UtpNJra1_ACIj-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="10" width="830" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="_Gdx0q3UtpNJra1_ACIj-5" value="&lt;div style=&quot;font-size: 15px;&quot;&gt;Computer Shop Management System&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="275" y="20" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_Gdx0q3UtpNJra1_ACIj-8" value="" style="line;strokeWidth=2;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="397.5" y="65" width="25" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="_Gdx0q3UtpNJra1_ACIj-10" value="View Computers" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="297.5" y="55" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_Gdx0q3UtpNJra1_ACIj-11" value="Add Computer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="422.5" y="55" width="96" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_Gdx0q3UtpNJra1_ACIj-17" value="© 2024 Computer Shop Management System. All rights reserved" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="400" width="830" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_Gdx0q3UtpNJra1_ACIj-21" value="" style="line;strokeWidth=2;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="530" y="65" width="25" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="_Gdx0q3UtpNJra1_ACIj-23" value="" style="line;strokeWidth=2;html=1;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="260" y="65" width="25" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="_Gdx0q3UtpNJra1_ACIj-24" value="Log out" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="55" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_Gdx0q3UtpNJra1_ACIj-25" value="Main Menu" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="187.5" y="55" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_Gdx0q3UtpNJra1_ACIj-52" value="Add New Computer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="340" y="130" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_Gdx0q3UtpNJra1_ACIj-53" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="160" width="400" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="_Gdx0q3UtpNJra1_ACIj-54" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="190" width="380" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_Gdx0q3UtpNJra1_ACIj-55" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="230" width="380" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_Gdx0q3UtpNJra1_ACIj-56" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="270" width="380" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_Gdx0q3UtpNJra1_ACIj-57" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="310" width="380" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_Gdx0q3UtpNJra1_ACIj-61" value="Add Computer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="340" width="380" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_Gdx0q3UtpNJra1_ACIj-62" value="Back" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="360" width="380" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_Gdx0q3UtpNJra1_ACIj-63" value="Model:" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="170" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_Gdx0q3UtpNJra1_ACIj-64" value="Brand:" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="210" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_Gdx0q3UtpNJra1_ACIj-65" value="Price(USD):" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="250" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_Gdx0q3UtpNJra1_ACIj-66" value="Stock:" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="215" y="290" width="60" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
